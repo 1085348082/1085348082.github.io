@@ -48,7 +48,8 @@ export default defineUserConfig({
     // 设置多个密码
     password: [
       'e3849c4761c2b368e6b71acb6f7f35d9',
-      '4babeff643feb7766f7d151afb4c2783'
+      '4babeff643feb7766f7d151afb4c2783',
+      'e10adc3949ba59abbe56e057f20f883e'
     ],
     bulletin: {
       body: [
