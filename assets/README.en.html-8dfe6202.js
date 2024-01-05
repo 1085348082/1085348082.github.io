@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-13fe50c9","path":"/README.en.html","title":"lovebaobao","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1701948600000,"updatedTime":1701948600000,"contributors":[{"name":"yangkuan","email":"1085348082@qq.com","commits":1}]},"filePathRelative":"README.en.md"}');export{e as data};
